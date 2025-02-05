@@ -22,5 +22,4 @@ This repository contains a collection of technical interview projects & quizes f
 
 **Technical Interviews: Multiple choice quizes**
 
-  * [0x15. C - File I/O](./0x15-file_io)
-  * [0x16. C - Simple Shell](https://github.com/kelvinnmuia/simple_shell)
+  * [
